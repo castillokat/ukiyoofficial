@@ -1,0 +1,256 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: white;
+    font-family: 'Cocogoose';
+    height: 150px;
+}
+
+.navdiv{
+    padding-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+li a{
+    color: #593924;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 200px;
+}
+
+button{
+    background-color: #593924;
+    margin-left: 10px;
+    margin-right: 100px;
+    border-radius: 50px;
+    padding: 10px;
+    width: 90px;
+}
+
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.home-page{
+    background-color: #C1A37F;
+    height: 100vh;
+    width: 100%;
+    background-size: 600% 600%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ukiyo{
+    width: 0px;
+    margin-left: 500px;
+    text-align: center;
+    padding-top: 10%;
+    font-family: 'Wakinda';
+    letter-spacing: 6px;
+    font-size: 10vw;
+    color: #593924;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.product-home{
+    width: 700px;
+    height: 700px;
+    justify-content: space-between;
+    margin-right: 650px;
+    margin-top: 300px;;
+}
+
+.about-page{
+    background-color: #ffff;
+    height: 100vh;
+    width: 100%;
+    background-size: 600% 600%;
+}
+
+.about-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-h1{
+    text-align: center;
+    padding-top: 10%;
+    font-family: 'Wakinda';
+    font-size: 5vw;
+    color: #593924;
+}
+
+.about-p{
+    text-align: center;
+    font-family: 'COCOGOOSE';
+    margin-left: 470px;
+    margin-right: 0px;
+    font-size: 200%;
+    padding-top: 8%;
+    color: #593924;
+}
+
+.products-page{
+    background-color: #C1A37F;
+    width: 100%;
+    background-size: 600% 600%;
+}
+
+.products-h1{
+    text-align: center;
+    padding-top: 10%;
+    font-family: 'Wakinda';
+    font-size: 5vw;
+    color: #593924;
+}
+
+div.DC{
+    text-align: center;
+    color: #593924;
+    font-size: 200%;
+    margin-top: 500px;
+
+}
+
+.DCP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.IFS{
+    text-align: center;
+    color: #593924;
+    font-size: 200%;
+
+}
+
+.IFSP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.ML{
+    text-align: center;
+    color: #593924;
+    font-size: 200%;
+}
+
+.MLP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.SL{
+    text-align: center;
+    color: #593924;
+    font-size: 200%;
+
+}
+
+.SLP{
+    display: flex;
+    justify-content: center;
+   
+}
+
+div.MSS{
+    text-align: center;
+    color: #593924;
+    font-size: 200%;
+
+}
+
+.MSSP{
+    display: flex;
+    justify-content: center;
+     
+}
+
+div.MS{
+    text-align: center;
+    color: #593924;
+    font-size: 200%;
+   
+}
+
+.MSP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.SS{
+    text-align: center;
+    color: #593924;
+    font-size: 200%;
+     
+}
+
+.SSP{
+    display: flex;
+    justify-content: center;
+}
+
+.gallery-page{
+    background-color: #ffff;
+    width: 100%;
+    background-size: 600% 600%;
+}
+
+.gallery-h1{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-family: 'Wakinda';
+    font-size: 5vw;
+    color: #593924;
+}
+
+.contact-page{
+    background-color: #ffff;
+    width: 100%;
+    height: 100px;
+    background-size: 600% 600%;
+}
+
+.contact-h1{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 3vw;
+    color: #593924;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.icon{
+    width: 450px;
+    height: 60px;
+    justify-content: space-between;
+    margin-left: 700px;
+    margin-top: 15px;
+}
